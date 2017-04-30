@@ -11,7 +11,7 @@ docker pull owroc/ddclient
 ```
 **Container Config**
 
-- If you need a sampe config it is provided here, just rename it to ddclient.conf and put it in your presistant store for the ddclient container
+- If you need a sampe config it is provided here, just rename it to ddclient.conf and put it in your persistant store for the ddclient container
 
 **Docker Run Command**
 
