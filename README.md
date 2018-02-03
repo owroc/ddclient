@@ -16,7 +16,7 @@ docker pull owroc/ddclient
 **Docker Run Command**
 
 ```
-docker run -d -v </docker/ddclient>:/config --name <ddclient> <ddclient>
+docker run -d -v </docker/ddclient>:/config --name <ddclient> <owroc/ddclient>
 ```
 
 Items encapsulated in <> can be modified to suit your preferences or you can just use what I have.
